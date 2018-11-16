@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <User>jly09</User>
+  <Password>111111</Password>
+  <Ip>14.152.78.135</Ip>
+  <TcpPort>2074</TcpPort>
+  <UdpPort>2075</UdpPort>
+  <DebugSwitch>1</DebugSwitch>
+  <PublishHost>127.0.0.1</PublishHost>
+  <PublishPort>3388</PublishPort>
+</Configuration>
